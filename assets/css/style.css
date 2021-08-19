@@ -221,9 +221,10 @@ footer{
 .social-networks > li {
     display: inline;
 }
-.social-networks i {
+.social-networks a{
     font-size: 160%;
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
+    border-top: 10px;
 }
